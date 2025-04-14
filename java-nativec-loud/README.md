@@ -1,6 +1,6 @@
-## Getting Started
+## Getting Started Course in Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Welcome guys, my name is Renato, in from Brasil, trying to speak inglish! 
 
 ## Folder Structure
 
